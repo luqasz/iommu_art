@@ -1,14 +1,16 @@
-Jak dowiedzieć się które pci id przekierować:
 
 Hardware:
-Płyta głowna F2A85-V PRO
-CPU AMD A10-5800K
+* Płyta głowna F2A85-V PRO
+* CPU AMD A10-5800K
+
 Software:
-Xubuntu 15.04
-3.19.0-21-generic
-virt-manager                          1:1.0.1-5ubuntu1
-libvirt-bin                           1.2.12-0ubuntu13
-libvirt0                              1.2.12-0ubuntu13
+* Xubuntu 15.04
+* kernel 3.19.0-21-generic
+* virt-manager (1:1.0.1-5ubuntu1)
+* libvirt-bin  (1.2.12-0ubuntu13)
+* libvirt0  (1.2.12-0ubuntu13)
+
+Jak dowiedzieć się które pci id przekierować:
 
 ```
 lspci -vnn
