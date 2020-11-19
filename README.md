@@ -81,4 +81,11 @@ Co do klawiatury i myszki to można użyć programu `synergy`.
 
 Przydatne linki:
 http://vfio.blogspot.com/
-
+https://heiko-sieger.info/creating-a-windows-10-vm-on-the-amd-ryzen-9-3900x-using-qemu-4-0-and-vga-passthrough/
+https://passthroughpo.st/explaining-csm-efifboff-setting-boot-gpu-manually/
+https://docs.microsoft.com/en-us/sysinternals/downloads/autologon
+https://github.com/PassthroughPOST/VFIO-Tools/blob/master/libvirt_hooks/hooks/cset.sh
+https://www.ddcutil.com/
+https://rokups.github.io/#!pages/gaming-vm-performance.md
+https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF#Isolating_pinned_CPUs
+https://www.redhat.com/archives/vfio-users/2016-September/msg00072.html
